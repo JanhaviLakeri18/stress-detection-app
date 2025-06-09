@@ -1,9 +1,5 @@
 streamlit
-scikit-learn
 pandas
-matplotlib
+scikit-learn
 joblib
-pickle
-numpy
 matplotlib
-scipy
